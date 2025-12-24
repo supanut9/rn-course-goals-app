@@ -31,8 +31,6 @@ export default function App() {
     });
   };
 
-  console.log(courseGoals);
-
   return (
     <>
       <StatusBar style='light' />
